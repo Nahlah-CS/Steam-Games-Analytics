@@ -1,5 +1,3 @@
-# Steam-Games-Analytics
-Steam games analytics dashboard using Excel and Power BI
 #  Steam Games Analytics Dashboard
 
 A data analysis project exploring Steam games dataset to uncover insights into pricing strategies, game release trends, user recommendations, and evaluation metrics.
