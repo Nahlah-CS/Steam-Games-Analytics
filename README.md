@@ -3,6 +3,9 @@
 A data analysis project exploring Steam games dataset to uncover insights into pricing strategies, game release trends, user recommendations, and evaluation metrics.
 
 ---
+<p align="center">
+  <img src="./dashboard.png" alt="Dashboard Preview" width="80%">
+</p>
 
 ##  Project Overview
 This project analyzes **124K+ games** on the Steam platform to understand market dynamics, pricing tiers, and community recommendations. The workflow involved data cleaning in Excel, DAX calculations, and interactive visualization using Power BI.
