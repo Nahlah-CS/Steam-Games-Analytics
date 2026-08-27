@@ -4,7 +4,7 @@ A data analysis project exploring Steam games dataset to uncover insights into p
 
 ---
 <p align="center">
-  <img src="./dashboard.png" alt="Dashboard Preview" width="80%">
+  <img src="./dashboard.jpg" alt="Dashboard Preview" width="80%">
 </p>
 
 ##  Project Overview
